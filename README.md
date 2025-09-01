@@ -1,9 +1,16 @@
-#Card Connect
-Card Connect is a simple Flutter application that showcases a single interactive card on the screen.
-It’s a beginner-friendly project to explore Flutter widgets and basic UI design.
-✨ Features
-Minimal and clean UI
-Displays a single card component
-Beginner-friendly project structure
-🛠️ Tech Stack
-Flutter (Dart)
+# Card Connect  
+
+Card Connect is a simple Flutter application that displays a single card with a clean and minimal UI.  
+This project is designed for beginners who want to explore Flutter widgets and understand the basics of building a mobile app.  
+
+---
+
+## ✨ Features  
+- Minimal and clean design  
+- Single card display  
+- Beginner-friendly code structure  
+
+---
+
+## 🛠️ Tech Stack  
+- **Flutter** (Dart)  
